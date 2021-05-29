@@ -1,4 +1,4 @@
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
+alabaster==0.7.12
 appdirs==1.4.4
 applaunchservices==0.2.1
 appnope @ file:///opt/concourse/worker/volumes/live/6ca6f098-d773-4461-5c91-a24a17435bda/volume/appnope_1606859448531/work
