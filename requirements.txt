@@ -157,5 +157,5 @@ xgboost==1.4.1
 yapf 
 zipp 
 gunicorn==20.0.4
-python==3.9.4
+python
 streamlit
