@@ -157,5 +157,5 @@ xgboost==1.4.1
 yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
 zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
 gunicorn==20.0.4
-python==3.9.5
+python==3.9.4
 streamlit
