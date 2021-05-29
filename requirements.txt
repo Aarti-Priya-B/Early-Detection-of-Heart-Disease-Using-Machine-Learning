@@ -158,4 +158,4 @@ yapf
 zipp 
 gunicorn==20.0.4
 streamlit
-pyobjc-framework-CFNetwork
+
