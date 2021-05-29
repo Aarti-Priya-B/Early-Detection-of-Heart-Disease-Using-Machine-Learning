@@ -26,7 +26,7 @@ cookiecutter
 cryptography 
 cycler==0.10.0
 decorator==5.0.7
-defusedxml @
+defusedxml 
 diff-match-patch 
 docutils 
 entrypoints==0.3
